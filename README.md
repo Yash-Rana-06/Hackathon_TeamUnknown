@@ -4,10 +4,10 @@ Track: Applied ML for Manufacturing Industry 's problem (JK-Lakshami-cement)
 Team Name : TeamUnknown
 Team Leader: Rana Yash : 9429180769
 Team Members
-# Omkarsinh Rana
-# Darshan Ramani
-# Raviya Vatsal
-# Rathod Mayur
+Omkarsinh Rana
+Darshan Ramani
+Raviya Vatsal
+Rathod Mayur
 
 --------------------------------------------------------
 -> So, basically we have input-dataset in the form of video files..
