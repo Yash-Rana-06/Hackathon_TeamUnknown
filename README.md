@@ -15,7 +15,8 @@ Rathod Mayur
 -> and we need to identify the the labels(week number) from the passing Cement bags.
 -> if cement bag doesn't contain any serial number or anything, should create sql query.
 
-* Requirements to execute the python Jupyter Notebook(.ipynb) file
+# Requirements
+Requirements to execute the python Jupyter Notebook(.ipynb) file
 	1) You need to install the latest version(good to have) or python interpreter. 
 	2) You can install any platform such as pycharm, Visual Studio Code etc to run your code.
 	3) Also, if you want to execute .ipynb files, the system should have anaconda-opensource platform which 
