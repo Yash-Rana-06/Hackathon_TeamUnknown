@@ -5,10 +5,10 @@ Track: Applied ML for Manufacturing Industry 's problem (JK-Lakshami-cement)
 Team Name : TeamUnknown
 Team Leader: Rana Yash : 9429180769
 Team Members
-# Omkarsinh Rana
-# Darshan Ramani
-# Raviya Vatsal
-# Rathod Mayur
+Omkarsinh Rana
+Darshan Ramani
+Raviya Vatsal
+Rathod Mayur
 
 --------------------------------------------------------
 -> So, basically we have input-dataset in the form of video files..
@@ -28,7 +28,7 @@ Team Members
 
 ---------------------------------------------------------
 
--> Solution :
+# Solution :
 	We have done using OpenCV - computer vision technique, which is the most useful library to work with the video processing, Image-
 	Processing data, Applying different different filters, removing noise, sharpen the image etc.
 	so, after loding the required modules, we extract the images from 2 different videos and store it inside the sample_images
